@@ -1,0 +1,12 @@
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\bin\Debug\net7.0\RedRattlesnake.Domain.deps.json
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\bin\Debug\net7.0\RedRattlesnake.Domain.dll
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\bin\Debug\net7.0\RedRattlesnake.Domain.pdb
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.csproj.AssemblyReference.cache
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.AssemblyInfoInputs.cache
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.AssemblyInfo.cs
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.csproj.CoreCompileInputs.cache
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.dll
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\refint\RedRattlesnake.Domain.dll
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\RedRattlesnake.Domain.pdb
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Domain\obj\Debug\net7.0\ref\RedRattlesnake.Domain.dll

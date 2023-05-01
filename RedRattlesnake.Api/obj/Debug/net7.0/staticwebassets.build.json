@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kbWAL5paWKSA0bkC8vkOtzOTqqc28sxrVnD2P5oShHc=",
+  "Source": "RedRattlesnake.Api",
+  "BasePath": "_content/RedRattlesnake.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
