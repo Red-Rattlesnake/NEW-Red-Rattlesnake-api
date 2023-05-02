@@ -108,6 +108,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "RedRattlesnake.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "RedRattlesnake.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RedRattlesnake.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RedRattlesnake.Data.dll": {}
+        }
+      },
       "RedRattlesnake.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -462,6 +475,11 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+    "RedRattlesnake.Data/1.0.0": {
+      "type": "project",
+      "path": "../RedRattlesnake.Data/RedRattlesnake.Data.csproj",
+      "msbuildProject": "../RedRattlesnake.Data/RedRattlesnake.Data.csproj"
+    },
     "RedRattlesnake.Domain/1.0.0": {
       "type": "project",
       "path": "../RedRattlesnake.Domain/RedRattlesnake.Domain.csproj",
@@ -471,6 +489,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
+      "RedRattlesnake.Data >= 1.0.0",
       "RedRattlesnake.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -500,6 +519,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj": {
+              "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj"
+            },
             "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj": {
               "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj"
             }
