@@ -26,6 +26,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj": {
+                "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj"
+              },
               "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj": {
                 "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj"
               }
@@ -45,6 +48,30 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -66,6 +93,69 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj",
+        "projectName": "RedRattlesnake.Data",
+        "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\RedRattlesnake.Data.csproj",
+        "packagesPath": "C:\\Users\\smwoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smwoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj": {
+                "projectPath": "C:\\Users\\smwoo\\repos\\NEW-Red-Rattlesnake-api\\RedRattlesnake.Domain\\RedRattlesnake.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
