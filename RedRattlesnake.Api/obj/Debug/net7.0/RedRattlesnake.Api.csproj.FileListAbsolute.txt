@@ -33,3 +33,5 @@ C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\obj\Debug\net7.0
 C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\obj\Debug\net7.0\ref\RedRattlesnake.Api.dll
 C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\bin\Debug\net7.0\RedRattlesnake.Domain.dll
 C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\bin\Debug\net7.0\RedRattlesnake.Domain.pdb
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\bin\Debug\net7.0\package-lock.json
+C:\Users\smwoo\repos\NEW-Red-Rattlesnake-api\RedRattlesnake.Api\bin\Debug\net7.0\package.json
